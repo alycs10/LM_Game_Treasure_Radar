@@ -1,1 +1,1 @@
-victory web page
+Treasure Radar Web Application
